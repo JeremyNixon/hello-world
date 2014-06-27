@@ -2,4 +2,4 @@
 
 <h2>Jeremy's Web Page</h2>
 
-<img scr="jeremy.jpg">
+<img src="jeremy.jpg">
