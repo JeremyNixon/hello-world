@@ -1,0 +1,76 @@
+#body
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+}
+
+div {
+  border: 0px solid red;
+}
+
+#hello
+{
+	
+}
+
+#title
+{
+ text-align: center;
+}
+
+
+H1 
+{
+	text-align: center;
+}
+
+.text
+{
+
+}
+
+#whatido
+{
+
+}
+
+#jeremy
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#course
+{
+
+}
+
+#webexp
+{
+
+}
+
+#programexp
+{
+
+}
+
+#php
+{
+
+}
+
+#system
+{
+
+}
+
+#everythingelse
+{
+
+}
