@@ -10,7 +10,17 @@
 	<STYLE TYPE="text/css">
 	<!--
 		@page { size: 8.5in 11in; margin: 1in }
-		P { margin-bottom: 0.08in }
+		P { margin-bottom: 0.0in }
+		body {
+			width: 90%; 
+			margin-left: auto;
+    		margin-right: auto;
+    		background-color: fde68c;
+    		}
+    	ol{
+    		margin: 0px;
+    	}
+
 	-->
 	</STYLE>
 </HEAD>
@@ -106,7 +116,7 @@ category of book – would be practical or efficient.</FONT></FONT></P>
 <P STYLE="text-indent: 0.5in; margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>This
 list should make my book choices more aware of opportunity costs and
 allow me to consider a wider set of options. I should also be able to
-see holes in my knowledge space.</FONT></FONT></P>
+see holes in my knowledge space. I'll attempt to fill the most critical holes first.</FONT></FONT></P>
 <P STYLE="margin-bottom: 0in"> 
 </P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><B>2.
