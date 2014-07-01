@@ -12,10 +12,10 @@
 		@page { size: 8.5in 11in; margin: 1in }
 		P { margin-bottom: 0.0in }
 		body {
-			width: 90%; 
+			width: 70%; 
 			margin-left: auto;
     		margin-right: auto;
-    		background-color: fde68c;
+    		background-color: fff;
     		}
     	ol{
     		margin: 0px;
