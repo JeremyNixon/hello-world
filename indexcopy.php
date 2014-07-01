@@ -58,8 +58,8 @@
 		Which is the extent of my PHP experience.
 		</p>
 	</div>
-
-	<div class="text" id="system">
+div
+	< class="text" id="system">
 		<h3>Are you working on a Mac, PC, or some other platform?</h3>
 		<p>I'm working on a personal Dell Latitude laptop. I'm accustomed to coding in Ubuntu, so using WAMP will be an interesting (and so far convenient!) change.</p>
 

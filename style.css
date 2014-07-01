@@ -2,14 +2,26 @@
 {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
-    width: 70%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
-    background-color: lightgrey;
+    background-color: fff;
+    color: 101010;
+}
+
+p
+{
+    text-indent: 0.50in;
 }
 
 div {
   border: 0px solid red;
+}
+
+h3
+{
+    color: a00000;
+    text-align: center;
 }
 
 #hello
@@ -73,4 +85,16 @@ H1
 #everythingelse
 {
 
+}
+
+iframe
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#callahan
+{
+    text-align: center;
 }

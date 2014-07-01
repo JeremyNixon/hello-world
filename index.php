@@ -12,7 +12,8 @@
 	</div>
 
 	<div id="title">
-		<h2>Jeremy's Web Page</h2>
+		<h2>Jeremy Vaughn Nixon</h2>
+		<h4>Dynamic Web Applications: Project 1</h4>
 	</div>
 
 
@@ -43,7 +44,8 @@
 
 	<div class="text" id="programexp">
 		<h3>What previous experience do you have with programming?</h3>
-		<p></p>
+		<p>I've taken a class in C++, a class in algorithms and helped build a project called Timestamp in Xcode.</p>
+		<iframe width="560" height="315" src="//www.youtube.com/embed/jdG75RY5S84" frameborder="0" allowfullscreen></iframe>
 	</div>
 
 	<div class="text" id="php">
@@ -64,7 +66,11 @@
 		<p>I'm working on a personal Dell Latitude laptop. I'm accustomed to coding in Ubuntu, so using WAMP will be an interesting (and so far convenient!) change.</p>
 
 	<div class="text" id="everythingelse">
-		<p></p>
+		<h3>Anything else we should know?</h3>
+		<p>I play Ultimate Frisbee for Harvard, for a professional team in Boston and for a Boston club team:</p>
+		<div id="callahan">
+		<iframe width="560" height="315" src="//www.youtube.com/embed/ImCDEQLhxIk" frameborder="0" allowfullscreen></iframe>
+		</div>
 	</div>
 </div>
 </body>
