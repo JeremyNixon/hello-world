@@ -31,3 +31,7 @@ Route::get('/women-club', function(){
 Route::get('/open-college', function(){
 	return View::make('open-college');
 });
+
+Route::get('/women-college', function(){
+	return View::make('women-college');
+});
