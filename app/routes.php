@@ -20,19 +20,19 @@ Route::get('/ultimate-video-online/open-club', function(){
 	return View::make('open-club');
 });
 
-Route::get('/mixed-club', function(){
+Route::get('/ultimate-video-online/mixed-club', function(){
 	return View::make('mixed-club');
 });
 
-Route::get('/women-club', function(){
+Route::get('/ultimate-video-online/women-club', function(){
 	return View::make('women-club');
 });
 
-Route::get('/open-college', function(){
+Route::get('/ultimate-video-online/open-college', function(){
 	return View::make('open-college');
 });
 
-Route::get('/women-college', function(){
+Route::get('/ultimate-video-online/women-college', function(){
 	return View::make('women-college');
 });
 

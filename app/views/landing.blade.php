@@ -15,8 +15,8 @@
    <a href="http://http://skydmagazine.com/2012/01/watching-ultimate-in-the-video-age/" target="_blank">Watching Ultimate in the Video Age</a>
     by Lou Burress.
   <p><br>
-<a class="label" href="http://hello-world.jeremynixon.me/open-club" target="_blank">Open Club</a><br><br>
-<a class="label" href="http://hello-world.jeremynixon.me/mixed-club" target="_blank">Mixed Club</a><br><br>
+<a class="label" href="/ultimate-video-online/open-club" target="_blank">Open Club</a><br><br>
+<a class="label" href="/ultimate-video-online/mixed-club" target="_blank">Mixed Club</a><br><br>
 <a class="label" href="http://hello-world.jeremynixon.me/women-club" target="_blank">Women's Club</a><br><br>
 <a class="label" href="http://hello-world.jeremynixon.me/open-college" target="_blank">College Open</a><br><br>
 <a class="label" href="http://hello-world.jeremynixon.me/women-college" target="_blank">College Women</a><br><br>

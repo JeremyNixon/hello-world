@@ -19,10 +19,10 @@ date_default_timezone_set ('america/new_york');
 		<ul id="navlist">
 		<li><a href="/ultimate-video-online">Home</a><li>
 		<li><a href="/ultimate-video-online/open-club">Open Club</a></li>
-		<li><a href="/mixed-club">Mixed Club</a></li>
-		<li><a href="/women-club">Women's Club</a></li>
-		<li><a href="/open-college">Open College</a></li>
-		<li><a href="/women-college">Women's College</a></li>
+		<li><a href="/ultimate-video-online/mixed-club">Mixed Club</a></li>
+		<li><a href="/ultimate-video-online/women-club">Women's Club</a></li>
+		<li><a href="/ultimate-video-online/open-college">Open College</a></li>
+		<li><a href="/ultimate-video-online/women-college">Women's College</a></li>
 		</ul>
 	</div><br><br>
 	@yield('body')
